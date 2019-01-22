@@ -18,3 +18,4 @@ class Snake < Reptile
     puts 'when i bite I inject venom... scary i know'
   end
 end
+
